@@ -1,0 +1,14 @@
+body{
+    background-image: linear-gradient(to right,white, rgb(248, 191, 152) );
+}
+dt{
+    font-style: italic;
+    color: rgb(58, 4, 54);
+    font-weight: bold;
+}
+h1{
+    font-style: italic;
+    color: rgb(15, 15, 15);
+    font-weight: bold;
+
+}
